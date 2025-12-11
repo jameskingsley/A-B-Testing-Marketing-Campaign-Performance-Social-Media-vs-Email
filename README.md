@@ -114,7 +114,6 @@ Recommendation:
 * Matplotlib
 * Jupyter Notebook
 
- Author
-
-James Kingsley Philip
-Data Scientist & Data Engineer
+##### Author
+* James Kingsley Philip
+* Data Scientist & Data Engineer
